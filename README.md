@@ -1,3 +1,5 @@
+𝗔𝗵𝗲𝗮𝗱 𝗢𝗳 𝗧𝗶𝗺𝗲 𝗡𝗼 𝗥𝗼𝗼𝘁
+
 ![IMG_20240623_010059_404](https://github.com/SiFirmansyahModz/Ahead-Of-Time-NR/assets/164661353/cf1d0ab9-e6b1-475f-b5e9-907234a9f1b0)
 
 AOT stands for Ahead-of-Time, which is the compilation method used by the Android Runtime (ART) in the Android operating system
